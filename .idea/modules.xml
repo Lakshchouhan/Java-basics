@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.iml" filepath="$PROJECT_DIR$/.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaOOps/class and object/class and object.iml" filepath="$PROJECT_DIR$/javaOOps/class and object/class and object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa_basic_150/dsa_basic_150.iml" filepath="$PROJECT_DIR$/dsa_basic_150/dsa_basic_150.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaOOps/javaOOps.iml" filepath="$PROJECT_DIR$/javaOOps/javaOOps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/l1/l1.iml" filepath="$PROJECT_DIR$/oops/l1/l1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice conditionals and loops/practice conditionals and loops.iml" filepath="$PROJECT_DIR$/practice conditionals and loops/practice conditionals and loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_input_outout/practice_input_outout.iml" filepath="$PROJECT_DIR$/practice_input_outout/practice_input_outout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicefunctions/practicefunctions.iml" filepath="$PROJECT_DIR$/practicefunctions/practicefunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+    </modules>
+  </component>
+</project>
